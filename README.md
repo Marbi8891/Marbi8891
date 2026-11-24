@@ -2,44 +2,46 @@
 
 **Software Developer · AI Systems · Application Security**
 
-I build software products, AI-powered workflows and practical security tools. My work focuses on Python backends, modern web applications, agent-based systems and secure-by-design engineering.
+I build software products, AI-powered workflows and practical security tools. My work combines backend and web engineering, agent-based systems, automation and application security.
 
-[Portfolio](https://mrabehfathi.com) · [GitHub](https://github.com/Marbi8891) · [Contact](mailto:mrabehfathiprofesional@gmail.com)
+Construyo productos de software, flujos de trabajo con IA y herramientas de seguridad. Mi trabajo combina desarrollo backend y web, sistemas multiagente, automatización y seguridad de aplicaciones.
+
+[Portfolio](https://mrabehfathi.com) · [GitHub](https://github.com/Marbi8891) · [Contact / Contacto](mailto:mrabehfathiprofesional@gmail.com)
 
 ---
 
-## Featured projects
+## Featured work / Proyectos destacados
 
-### NEXARO — AI platform
-A local-first AI platform built with Python and FastAPI. It brings together model integrations, agent workflows, organization-aware access control, auditability and operational tooling.
+### NEXARO — AI platform / Plataforma de IA
+A local-first AI workspace built with Python and FastAPI, with model integrations, agent workflows, organization-aware access controls, audit logs and operational tooling.
 
-- Stack: Python, FastAPI, Ollama, HTML, CSS, JavaScript, Docker
-- Repository: [NEXARO-PERSONAL-AI-](https://github.com/Marbi8891/NEXARO-PERSONAL-AI-)
+Entorno de IA local-first desarrollado con Python y FastAPI, con integración de modelos, flujos de agentes, control de acceso por organización, auditoría y herramientas operativas.
+
+[Repository / Repositorio](https://github.com/Marbi8891/NEXARO-PERSONAL-AI-)
 
 ### Python Learning Dashboard
-An interactive learning platform for Python and software-development curricula, with browser-based Python execution, adaptive practice, quizzes and a FastAPI backend.
+An interactive learning platform for Python and software-development curricula, featuring browser-based Python execution, adaptive practice, quizzes and a FastAPI backend.
 
-- Stack: Python, FastAPI, JavaScript, Pyodide, PostgreSQL, Playwright
-- [Live demo](https://marbi8891.github.io/python-learning-dashboard/)
-- Repository: [python-learning-dashboard](https://github.com/Marbi8891/python-learning-dashboard)
+Plataforma educativa para aprender Python y contenidos de desarrollo de software, con ejecución de Python en el navegador, práctica adaptativa, cuestionarios y backend FastAPI.
 
-### Security engineering
-Practical tools and labs focused on web application assessment, OSINT workflows and security automation.
+[Live demo / Demo](https://marbi8891.github.io/python-learning-dashboard/) · [Repository / Repositorio](https://github.com/Marbi8891/python-learning-dashboard)
+
+### Application security & OSINT / Seguridad y OSINT
+Practical tools for web security posture assessment and controlled OSINT research.
+
+Herramientas para evaluar la configuración de seguridad web e investigar fuentes OSINT de forma controlada.
 
 - [OWASP Web Auditor](https://github.com/Marbi8891/owasp-web-auditor)
 - [Tor OSINT](https://github.com/Marbi8891/tor-osint)
 
 ### Portfolio
-A central place for selected work, technical notes and project demonstrations.
-
-- [mrabehfathi.com](https://mrabehfathi.com)
-- [Portfolio source](https://github.com/Marbi8891/portfolio-mrabeh)
+[Website / Web](https://mrabehfathi.com) · [Source / Código](https://github.com/Marbi8891/portfolio-mrabeh)
 
 ---
 
-## Technical focus
+## Technical focus / Áreas técnicas
 
-| Area | Technologies |
+| Area / Área | Technologies / Tecnologías |
 |---|---|
 | Backend | Python, FastAPI, SQL |
 | Frontend | JavaScript, TypeScript, HTML, CSS |
@@ -48,16 +50,22 @@ A central place for selected work, technical notes and project demonstrations.
 | Engineering | Docker, Git, automated testing, CI |
 | Security | OWASP, Nmap, Wireshark, Linux, OSINT |
 
-## Current direction
+## Current direction / Enfoque actual
 
-- Building and improving production-minded software projects.
-- Developing AI applications with explicit permissions, audit trails and operational controls.
-- Strengthening software engineering and application security skills.
+- Software engineering: maintainable applications, APIs, testing and deployment.
+- AI engineering: model integrations, bounded agents, permissions and auditability.
+- Application security: secure development, testing and defensive tooling.
 
-## Education
+- Ingeniería de software: aplicaciones mantenibles, APIs, pruebas y despliegue.
+- Ingeniería de IA: integración de modelos, agentes con límites, permisos y auditoría.
+- Seguridad de aplicaciones: desarrollo seguro, pruebas y herramientas defensivas.
+
+## Education / Formación
 
 Higher vocational training in Web Application Development (DAW) and Multiplatform Application Development (DAM).
 
-## Contact
+Formación profesional de grado superior en Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-For professional opportunities and project enquiries: [mrabehfathiprofesional@gmail.com](mailto:mrabehfathiprofesional@gmail.com)
+## Contact / Contacto
+
+Professional enquiries / Contacto profesional: [mrabehfathiprofesional@gmail.com](mailto:mrabehfathiprofesional@gmail.com)
