@@ -1,81 +1,63 @@
-# 👋 Hola, soy Mrabeh Fathi
+# Mrabeh Fathi Boussayff
 
-💻 Desarrollador Web & Ciberseguridad
-📍 Madrid, España
-🎯 Construyo soluciones reales: automatización, APIs y seguridad
+**Software Developer · AI Systems · Application Security**
 
----
+I build software products, AI-powered workflows and practical security tools. My work focuses on Python backends, modern web applications, agent-based systems and secure-by-design engineering.
 
-## 🚀 Sobre mí
-
-Soy un profesional con experiencia en administración que está evolucionando hacia el desarrollo web y la ciberseguridad.
-
-Me enfoco en crear proyectos útiles, automatizar procesos y resolver problemas reales con criterio técnico.
+[Portfolio](https://mrabehfathi.com) · [GitHub](https://github.com/Marbi8891) · [Contact](mailto:mrabehfathiprofesional@gmail.com)
 
 ---
 
-## 🧠 Actualmente
+## Featured projects
 
-* 🎓 FP DAM + DAW
-* 🔐 Preparando certificaciones (eJPT → OSCP)
-* ⚙️ Construyendo proyectos reales (no tutoriales)
+### NEXARO — AI platform
+A local-first AI platform built with Python and FastAPI. It brings together model integrations, agent workflows, organization-aware access control, auditability and operational tooling.
 
----
+- Stack: Python, FastAPI, Ollama, HTML, CSS, JavaScript, Docker
+- Repository: [NEXARO-PERSONAL-AI-](https://github.com/Marbi8891/NEXARO-PERSONAL-AI-)
 
-## 🛠️ Stack Tecnológico
+### Python Learning Dashboard
+An interactive learning platform for Python and software-development curricula, with browser-based Python execution, adaptive practice, quizzes and a FastAPI backend.
 
-**Backend**
+- Stack: Python, FastAPI, JavaScript, Pyodide, PostgreSQL, Playwright
+- [Live demo](https://marbi8891.github.io/python-learning-dashboard/)
+- Repository: [python-learning-dashboard](https://github.com/Marbi8891/python-learning-dashboard)
 
-* Python · FastAPI · SQL
+### Security engineering
+Practical tools and labs focused on web application assessment, OSINT workflows and security automation.
 
-**Frontend**
+- [OWASP Web Auditor](https://github.com/Marbi8891/owasp-web-auditor)
+- [Tor OSINT](https://github.com/Marbi8891/tor-osint)
 
-* HTML · CSS · JavaScript
+### Portfolio
+A central place for selected work, technical notes and project demonstrations.
 
-**Herramientas**
-
-* Git · Linux · Kali · Wireshark
-
----
-
-## 📌 Proyectos Destacados
-
-### 🔥 Golytics
-
-Sistema de predicción deportiva con IA
-✔ API real
-✔ lógica de valor
-✔ backend escalable
+- [mrabehfathi.com](https://mrabehfathi.com)
+- [Portfolio source](https://github.com/Marbi8891/portfolio-mrabeh)
 
 ---
 
-### 🔐 CLAW Framework
+## Technical focus
 
-Herramienta de auditoría de seguridad en Linux
-✔ análisis de privilegios
-✔ pentesting automatizado
-✔ generación de informes
+| Area | Technologies |
+|---|---|
+| Backend | Python, FastAPI, SQL |
+| Frontend | JavaScript, TypeScript, HTML, CSS |
+| Data | PostgreSQL, SQLite |
+| AI | Ollama, LLM integrations, agent workflows |
+| Engineering | Docker, Git, automated testing, CI |
+| Security | OWASP, Nmap, Wireshark, Linux, OSINT |
 
----
+## Current direction
 
-### 🌐 Portfolio Web
+- Building and improving production-minded software projects.
+- Developing AI applications with explicit permissions, audit trails and operational controls.
+- Strengthening software engineering and application security skills.
 
-Web profesional conectada a backend real
-✔ lista para entrevistas
-✔ formulario funcional
-✔ despliegue en producción
+## Education
 
----
+Higher vocational training in Web Application Development (DAW) and Multiplatform Application Development (DAM).
 
-## 📈 Objetivo profesional
+## Contact
 
-Busco incorporarme a un entorno donde pueda aportar valor combinando desarrollo, automatización y seguridad.
-
----
-
-## 📫 Contacto
-
-📧 [mrabehfathiprofesional@gmail.com](mailto:mrabehfathiprofesional@gmail.com)
-🌐 https://mrabehfathi.com
-
----
+For professional opportunities and project enquiries: [mrabehfathiprofesional@gmail.com](mailto:mrabehfathiprofesional@gmail.com)
